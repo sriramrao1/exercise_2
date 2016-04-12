@@ -45,7 +45,7 @@ class WordCounter(Bolt):
             cur = conn.cursor()
             if self.counts[word]==1:
                 query = "INSERT INTO tweetwordcount (word,count) VALUES ('" + word + "',1);"
-                self.log("Query: " + query)
+                #self.log("Query: " + query)
                 cur.execute(query)
 		conn.commit()
                 #self.cur.execute("INSERT INTO tweetwordcount (word,count) VALUES ('%s', %d)", (word, self.counts[word]))
