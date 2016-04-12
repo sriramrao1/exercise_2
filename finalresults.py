@@ -22,7 +22,7 @@ def main():
         if int(total) == 1:
             cur.execute("SELECT word, count from tweetwordcount ORDER BY word ASC;")
             records = cur.fetchall()
-            print("Count of records in tcount = %d" % len(records))
+            #print("Count of records in tcount = %d" % len(records))
             for rec in records:
                 print("word = %s" % str(rec[0]))
                 print("count = %d" % (rec[1]), "\n")
@@ -34,7 +34,7 @@ def main():
             query = "SELECT word, count from tweetwordcount WHERE word='" + searchword + "';"
             cur.execute(query)
             records = cur.fetchall()
-            print("Count of records in tcount = %d" % len(records))
+            #print("Count of records in tcount = %d" % len(records))
             for rec in records:
                 print("word = %s" % str(rec[0]))
                 print("count = %d" % (rec[1]), "\n")
