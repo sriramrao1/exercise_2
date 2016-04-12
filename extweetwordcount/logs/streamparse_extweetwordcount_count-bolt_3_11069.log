@@ -1,0 +1,84 @@
+2016-04-05 03:38:01,966 - streamparse.stdout - INFO - ('relation "tweetwordcount" already exists\n',)
+2016-04-05 03:38:01,966 - streamparse.stdout - INFO - relation "tweetwordcount" already exists
+
+2016-04-05 03:38:02,670 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,005 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,077 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,137 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,254 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,358 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,454 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,634 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:03,817 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:04,160 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:04,239 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:04,421 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:04,491 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:04,692 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:04,780 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:04,915 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:05,053 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:05,535 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:05,713 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:06,167 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:06,220 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:06,320 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:06,448 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:06,713 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:06,905 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,118 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,192 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,353 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,456 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,554 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,632 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,665 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,716 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:07,877 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:08,031 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:08,094 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:08,294 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:08,497 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:08,727 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,026 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,194 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,248 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,302 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,360 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,439 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,545 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:09,822 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,188 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,250 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,529 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,606 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,688 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,720 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,753 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,854 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:10,994 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:11,153 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:11,239 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:11,353 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:11,420 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:11,582 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:11,731 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:11,933 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:12,339 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:12,437 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:12,610 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:12,720 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:13,221 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 03:38:13,221 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:13,235 - streamparse.stdout - INFO - Errored out
+2016-04-05 03:38:13,235 - streamparse.storm.component - ERROR - Exception in WordCounter.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 489, in run
+    self._run()
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/bolt.py", line 221, in _run
+    self.ack(tup)
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/bolt.py", line 193, in ack
+    self.send_message({'command': 'ack', 'id': tup_id})
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 366, in send_message
+    self.output_stream.flush()
+IOError: [Errno 32] Broken pipe

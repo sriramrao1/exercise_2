@@ -1,0 +1,42 @@
+2016-04-05 04:19:29,592 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:31,878 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:34,487 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:50,177 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:55,647 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,153 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,153 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,153 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,154 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,154 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,154 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,154 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,154 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,155 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,155 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,155 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,155 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,155 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,155 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,156 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,156 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,156 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,156 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,156 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,156 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,157 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,157 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,157 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,157 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,157 - streamparse.storm.component - ERROR - Received EOF while trying to read stdin from Storm, pipe appears to be broken, exiting.
+2016-04-05 04:19:57,157 - streamparse.stdout - INFO - Errored out
+2016-04-05 04:19:57,171 - streamparse.storm.component - ERROR - Exception in WordCounter.run()
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 489, in run
+    self._run()
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/bolt.py", line 221, in _run
+    self.ack(tup)
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/bolt.py", line 193, in ack
+    self.send_message({'command': 'ack', 'id': tup_id})
+  File "/usr/lib/python2.7/site-packages/streamparse/storm/component.py", line 368, in send_message
+    self.output_stream.flush()
+IOError: [Errno 32] Broken pipe
